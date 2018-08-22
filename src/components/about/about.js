@@ -21,12 +21,12 @@ export default class About extends Component {
                             <div className="columns contact-details">
                                 <h2>Contact Details</h2>
                                 <p className="address">
-                                    <span>Jonathan Doe</span><br />
-                                    <span>1600 Amphitheatre Parkway<br />
-                                        Mountain View, CA 94043 US
+                                    <span>Andreas Gropp</span><br />
+                                    <span>Charlottenstraße 15<br />
+                                        12557 Berlin
                   </span><br />
-                                    <span>(123)456-7890</span><br />
-                                    <span>anyone@website.com</span>
+                                    <span>0151-70087743</span><br />
+                                    <span>https://starmaerker.github.io/</span>
                                 </p>
                             </div>
                             <div className="columns download">

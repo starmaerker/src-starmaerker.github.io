@@ -80,12 +80,12 @@ export default class Resume extends Component {
             </p>
                         <div className="bars">
                             <ul className="skills">
-                                <li><span className="bar-expand photoshop" /><em>Photoshop</em></li>
-                                <li><span className="bar-expand illustrator" /><em>Illustrator</em></li>
-                                <li><span className="bar-expand wordpress" /><em>Wordpress</em></li>
-                                <li><span className="bar-expand css" /><em>CSS</em></li>
-                                <li><span className="bar-expand html5" /><em>HTML5</em></li>
-                                <li><span className="bar-expand jquery" /><em>jQuery</em></li>
+                                <li><span className="bar-expand photoshop" /><em>JavaScript</em></li>
+                                <li><span className="bar-expand illustrator" /><em>HTML5</em></li>
+                                <li><span className="bar-expand wordpress" /><em>CSS</em></li>
+                                <li><span className="bar-expand css" /><em>C#</em></li>
+                                <li><span className="bar-expand html5" /><em>Azure</em></li>
+                                <li><span className="bar-expand jquery" /><em>React</em></li>
                             </ul>
                         </div>
                     </div>
