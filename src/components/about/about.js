@@ -26,7 +26,7 @@ export default class About extends Component {
                                         12557 Berlin
                   </span><br />
                                     <span>0151-70087743</span><br />
-                                    <span>https://starmaerker.github.io/</span>
+                                    <span>https://starmaerker.github.io</span>
                                 </p>
                             </div>
                             <div className="columns download">
