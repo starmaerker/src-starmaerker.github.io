@@ -7,13 +7,10 @@ export default class Footer extends Component {
                 <div className="row">
                     <div className="twelve columns">
                         <ul className="social-links">
-                            <li><a href="#"><i className="fa fa-facebook" /></a></li>
-                            <li><a href="#"><i className="fa fa-twitter" /></a></li>
-                            <li><a href="#"><i className="fa fa-google-plus" /></a></li>
-                            <li><a href="#"><i className="fa fa-linkedin" /></a></li>
-                            <li><a href="#"><i className="fa fa-instagram" /></a></li>
-                            <li><a href="#"><i className="fa fa-dribbble" /></a></li>
-                            <li><a href="#"><i className="fa fa-skype" /></a></li>
+                            <li><a href="https://github.com/starmaerker" target="_blank"><i className="fab fa-github-square" /></a></li>
+                            <li><a href="https://www.linkedin.com/in/andreas-gropp-a786a219/" target="_blank"><i className="fab fa-linkedin" /></a></li>
+                            <li><a href="https://www.hackerrank.com/starmaerker?hr_r=1" target="_blank"><i className="fab fa-hackerrank" /></a></li>
+                            <li><a href="https://twitter.com/Starmaerker" target="_blank"><i className="fab fa-twitter" /></a></li>
                         </ul>
                         <ul className="copyright">
                             <li>© Copyright 2014 CeeVee</li>

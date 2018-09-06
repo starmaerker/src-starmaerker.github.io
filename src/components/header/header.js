@@ -24,9 +24,10 @@ export default class Header extends Component {
                             and learn more <a className="smoothscroll" href="#about">about me</a>.</h3>
                         <hr />
                         <ul className="social">                            
-                            <li><a href="https://twitter.com/Starmaerker" target="_blank"><i className="fa fa-twitter" /></a></li>
-                            <li><a href="https://github.com/starmaerker" target="_blank"><i className="fa fa-github-square" /></a></li>
-                            <li><a href="https://www.linkedin.com/in/andreas-gropp-a786a219/" target="_blank"><i className="fa fa-linkedin" /></a></li>                            
+                            <li><a href="https://github.com/starmaerker" target="_blank"><i className="fab fa-github-square" /></a></li>
+                            <li><a href="https://www.linkedin.com/in/andreas-gropp-a786a219/" target="_blank"><i className="fab fa-linkedin" /></a></li>
+                            <li><a href="https://www.hackerrank.com/starmaerker?hr_r=1" target="_blank"><i className="fab fa-hackerrank" /></a></li>
+                            <li><a href="https://twitter.com/Starmaerker" target="_blank"><i className="fab fa-twitter" /></a></li>                           
                         </ul>
                     </div>
                 </div>
