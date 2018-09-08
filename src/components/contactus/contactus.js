@@ -52,10 +52,10 @@ export default class Contact extends Component {
                         <div className="widget widget_contact">
                             <h4>Address and Phone</h4>
                             <p className="address">
-                                Jonathan Doe<br />
-                                1600 Amphitheatre Parkway <br />
-                                Mountain View, CA 94043 US<br />
-                                <span>(123) 456-7890</span>
+                                Andreas Gropp<br />
+                                Charlottenstraße 15<br />
+                                12557 Berlin<br />
+                                <span>0151-70087743</span>
                             </p>
                         </div>
                         <div className="widget widget_tweets">
