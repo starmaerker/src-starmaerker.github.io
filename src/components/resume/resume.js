@@ -11,8 +11,8 @@ export default class Resume extends Component {
                     <div className="nine columns main-col">
                         <div className="row item">
                             <div className="twelve columns">
-                                <h3>University of Life</h3>
-                                <p className="info">Master in Graphic Design <span>•</span> <em className="date">April 2007</em></p>
+                                <h3>Udacity</h3>
+                                <p className="info"> Nanodegree React <span>•</span> <em className="date">December 2018</em></p>
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
                                     Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
@@ -23,8 +23,8 @@ export default class Resume extends Component {
                         </div>
                         <div className="row item">
                             <div className="twelve columns">
-                                <h3>School of Cool Designers</h3>
-                                <p className="info">B.A. Degree in Graphic Design <span>•</span> <em className="date">March 2003</em></p>
+                                <h3>University Selfstudy</h3>
+                                <p className="info">Udemy, Freecodecamp, Codeacademy<span>•</span> <em className="date">March 2016</em></p>
                                 <p>
                                     This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
                                     Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
@@ -43,8 +43,8 @@ export default class Resume extends Component {
                     <div className="nine columns main-col">
                         <div className="row item">
                             <div className="twelve columns">
-                                <h3>Awesome Design Studio</h3>
-                                <p className="info">Senior UX Designer <span>•</span> <em className="date">March 2010 - Present</em></p>
+                                <h3>Die Lernwerkstatt</h3>
+                                <p className="info">Frontend Developer<span>•</span> <em className="date">March 2017 - Present</em></p>
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
                                     Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
@@ -55,8 +55,8 @@ export default class Resume extends Component {
                         </div>
                         <div className="row item">
                             <div className="twelve columns">
-                                <h3>Super Cool Studio</h3>
-                                <p className="info">UX Designer <span>•</span> <em className="date">March 2007 - February 2010</em></p>
+                                <h3>Ritual App</h3>
+                                <p className="info">Mobile App in React Native<span>•</span> <em className="date">August 2018 - Present</em></p>
                                 <p>
                                     This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
                                     Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
